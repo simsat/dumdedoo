@@ -10,7 +10,7 @@ namespace my_console_app
     {
         static void Main(string[] args)
         {
-            //hello a note
+            //hello a note has been added
         }
     }
 }
